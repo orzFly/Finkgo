@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# encoding: utf8
+# encoding: utf-8
 <<FILES.split(/\n/).each do |name|
 finkgo/core
 finkgo/formats/ar

@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# encoding: utf8
+# encoding: utf-8
 require 'rubygems' rescue nil
 require 'ap'
 

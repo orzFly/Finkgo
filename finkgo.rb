@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# encoding: utf8
+# encoding: utf-8
 require "#{File.dirname($0)}/finkgo/core"
 require "#{File.dirname($0)}/finkgo/formats/ar"
 require "#{File.dirname($0)}/finkgo/formats/nkar"
